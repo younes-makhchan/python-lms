@@ -1,0 +1,3 @@
+GET http://127.0.0.1:8000/api/courses/
+Content-Type: application/json
+Authorization: JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoyLCJ1c2VybmFtZSI6InRlc3R1c2VyIiwiZXhwIjoxNjgxNDI1MTkxLCJlbWFpbCI6InRlc3RAZXhhbXBsZS5jb20ifQ.YQTmDWJJGk6cwU6007FlH2gk7OXuJzgIzAKL0dWMjSI

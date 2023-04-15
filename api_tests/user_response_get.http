@@ -1,0 +1,3 @@
+GET http://127.0.0.1:8000/api/user-responses/
+Content-Type: application/json
+Authorization: JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjozLCJ1c2VybmFtZSI6InRlc3R1c2VyMSIsImV4cCI6MTY4MTQ4MTI5MSwiZW1haWwiOiJ0ZXN0QGV4YW1wbGUuY29tIn0.zIbZjtWigPETMNZME-6ivcpH7kYs6m5cD2pFWeG6n9o

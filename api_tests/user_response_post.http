@@ -1,0 +1,9 @@
+POST http://127.0.0.1:8000/api/user-responses/
+Content-Type: application/json
+Authorization: JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoyLCJ1c2VybmFtZSI6InRlc3R1c2VyIiwiZXhwIjoxNjgxMzMzODE2LCJlbWFpbCI6InRlc3RAZXhhbXBsZS5jb20ifQ.-kU48Nb0uNc5hpX_N7bLA0-qjzHkfGq93mDmoxDUBt8
+
+{
+    "user": 1,
+    "question": 48,
+    "answer": "draw"
+}
